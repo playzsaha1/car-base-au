@@ -1,101 +1,470 @@
 [
   {
-    "id": 10,
-    "make": "BMW",
-    "model": "M3",
-    "trim": "Competition xDrive",
+    "id": 1,
+    "make": "Pagani",
+    "model": "Utopia",
+    "trim": "V12 Manual",
     "year": 2025,
-    "price": 186500,
-    "hp": 523
+    "price": 4500000,
+    "hp": 852
+  },
+  {
+    "id": 2,
+    "make": "Koenigsegg",
+    "model": "Jesko",
+    "trim": "Absolut",
+    "year": 2025,
+    "price": 5500000,
+    "hp": 1600
+  },
+  {
+    "id": 3,
+    "make": "Bugatti",
+    "model": "Mistral",
+    "trim": "W16 Roadster",
+    "year": 2025,
+    "price": 8000000,
+    "hp": 1578
+  },
+  {
+    "id": 4,
+    "make": "Rimac",
+    "model": "Nevera",
+    "trim": "Time Attack Edition",
+    "year": 2025,
+    "price": 3500000,
+    "hp": 1914
+  },
+  {
+    "id": 5,
+    "make": "Zenvo",
+    "model": "Aurora",
+    "trim": "Tur",
+    "year": 2025,
+    "price": 4200000,
+    "hp": 1850
+  },
+  {
+    "id": 6,
+    "make": "Bentley",
+    "model": "Flying Spur",
+    "trim": "Speed Hybrid",
+    "year": 2025,
+    "price": 620000,
+    "hp": 771
+  },
+  {
+    "id": 7,
+    "make": "Rolls-Royce",
+    "model": "Ghost",
+    "trim": "Black Badge",
+    "year": 2025,
+    "price": 850000,
+    "hp": 591
+  },
+  {
+    "id": 8,
+    "make": "BMW",
+    "model": "M8",
+    "trim": "Competition Coupe",
+    "year": 2025,
+    "price": 385000,
+    "hp": 617
+  },
+  {
+    "id": 9,
+    "make": "Mercedes-AMG",
+    "model": "SL63",
+    "trim": "4Matic+ Roadster",
+    "year": 2025,
+    "price": 399000,
+    "hp": 577
+  },
+  {
+    "id": 10,
+    "make": "Audi",
+    "model": "SQ8",
+    "trim": "Black Edition",
+    "year": 2025,
+    "price": 178000,
+    "hp": 500
   },
   {
     "id": 11,
     "make": "Porsche",
-    "model": "Macan",
-    "trim": "Electric",
+    "model": "Cayenne",
+    "trim": "Turbo E-Hybrid",
     "year": 2025,
-    "price": 133700,
-    "hp": 402
+    "price": 312000,
+    "hp": 729
   },
   {
     "id": 12,
-    "make": "Mercedes-AMG",
-    "model": "C63 S",
-    "trim": "E Performance",
+    "make": "Lamborghini",
+    "model": "Temerario",
+    "trim": "V8 Hybrid",
     "year": 2025,
-    "price": 199900,
-    "hp": 671
+    "price": 620000,
+    "hp": 907
   },
   {
     "id": 13,
-    "make": "Hyundai",
-    "model": "IONIQ 5",
-    "trim": "N Performance",
+    "make": "Ferrari",
+    "model": "12Cilindri",
+    "trim": "Spider",
     "year": 2025,
-    "price": 111000,
-    "hp": 641
+    "price": 890000,
+    "hp": 819
   },
   {
     "id": 14,
-    "make": "Audi",
-    "model": "RS3",
-    "trim": "Sportback",
+    "make": "McLaren",
+    "model": "Artura",
+    "trim": "Spider",
     "year": 2025,
-    "price": 108000,
-    "hp": 401
+    "price": 475000,
+    "hp": 690
   },
   {
     "id": 15,
-    "make": "Lexus",
-    "model": "GX550",
-    "trim": "Luxury",
+    "make": "Lotus",
+    "model": "Eletre",
+    "trim": "R",
     "year": 2025,
-    "price": 116000,
-    "hp": 349
+    "price": 245000,
+    "hp": 905
   },
   {
     "id": 16,
-    "make": "Ford",
-    "model": "Mustang",
-    "trim": "Dark Horse",
+    "make": "Polestar",
+    "model": "3",
+    "trim": "Performance Pack",
     "year": 2025,
-    "price": 103000,
-    "hp": 500
+    "price": 158000,
+    "hp": 510
   },
   {
     "id": 17,
-    "make": "Volkswagen",
-    "model": "Golf R",
-    "trim": "Hatch (Mk8.5)",
+    "make": "GMC",
+    "model": "Hummer EV",
+    "trim": "SUV Edition 1",
     "year": 2025,
-    "price": 78000,
-    "hp": 328
+    "price": 245000,
+    "hp": 1000
   },
   {
     "id": 18,
-    "make": "Chevrolet",
-    "model": "Corvette",
-    "trim": "Stingray 3LT",
+    "make": "Rivian",
+    "model": "R1S",
+    "trim": "Quad-Motor Performance",
     "year": 2025,
-    "price": 205000,
-    "hp": 495
+    "price": 185000,
+    "hp": 835
   },
   {
     "id": 19,
-    "make": "Tesla",
-    "model": "Model 3",
-    "trim": "Performance",
+    "make": "Lucid",
+    "model": "Air",
+    "trim": "Grand Touring",
     "year": 2025,
-    "price": 85000,
-    "hp": 460
+    "price": 260000,
+    "hp": 819
   },
   {
     "id": 20,
-    "make": "Land Rover",
-    "model": "Defender 110",
-    "trim": "OCTA Edition",
+    "make": "Cadillac",
+    "model": "Lyriq",
+    "trim": "Sport",
     "year": 2025,
-    "price": 300000,
-    "hp": 626
+    "price": 135000,
+    "hp": 500
+  },
+  {
+    "id": 21,
+    "make": "Maserati",
+    "model": "GranTurismo",
+    "trim": "Folgore (Electric)",
+    "year": 2025,
+    "price": 450000,
+    "hp": 751
+  },
+  {
+    "id": 22,
+    "make": "Jaguar",
+    "model": "F-Pace",
+    "trim": "SVR",
+    "year": 2025,
+    "price": 165000,
+    "hp": 542
+  },
+  {
+    "id": 23,
+    "make": "Range Rover",
+    "model": "Vogue",
+    "trim": "P530 Autobiography",
+    "year": 2025,
+    "price": 345000,
+    "hp": 523
+  },
+  {
+    "id": 24,
+    "make": "Genesis",
+    "model": "GV80",
+    "trim": "Coupe",
+    "year": 2025,
+    "price": 150000,
+    "hp": 409
+  },
+  {
+    "id": 25,
+    "make": "Lexus",
+    "model": "LX600",
+    "trim": "Ultra Luxury",
+    "year": 2025,
+    "price": 230000,
+    "hp": 409
+  },
+  {
+    "id": 26,
+    "make": "Toyota",
+    "model": "Tundra",
+    "trim": "Limited Hybrid",
+    "year": 2025,
+    "price": 156000,
+    "hp": 437
+  },
+  {
+    "id": 27,
+    "make": "Chevrolet",
+    "model": "Silverado",
+    "trim": "ZR2",
+    "year": 2025,
+    "price": 140000,
+    "hp": 420
+  },
+  {
+    "id": 28,
+    "make": "RAM",
+    "model": "2500",
+    "trim": "Laramie Night Edition",
+    "year": 2025,
+    "price": 185000,
+    "hp": 370
+  },
+  {
+    "id": 29,
+    "make": "Ford",
+    "model": "F-150",
+    "trim": "Lightning Platinum",
+    "year": 2025,
+    "price": 225000,
+    "hp": 580
+  },
+  {
+    "id": 30,
+    "make": "Ineos",
+    "model": "Grenadier",
+    "trim": "Quartermaster",
+    "year": 2025,
+    "price": 115000,
+    "hp": 282
+  },
+  {
+    "id": 31,
+    "make": "Alpine",
+    "model": "A110",
+    "trim": "R",
+    "year": 2025,
+    "price": 175000,
+    "hp": 300
+  },
+  {
+    "id": 32,
+    "make": "Toyota",
+    "model": "GR86",
+    "trim": "10th Anniversary",
+    "year": 2025,
+    "price": 52000,
+    "hp": 228
+  },
+  {
+    "id": 33,
+    "make": "Subaru",
+    "model": "BRZ",
+    "trim": "tS",
+    "year": 2025,
+    "price": 54000,
+    "hp": 228
+  },
+  {
+    "id": 34,
+    "make": "Mazda",
+    "model": "MX-5",
+    "trim": "RF GT RS",
+    "year": 2025,
+    "price": 58000,
+    "hp": 181
+  },
+  {
+    "id": 35,
+    "make": "Mini",
+    "model": "JCW",
+    "trim": "Countryman",
+    "year": 2025,
+    "price": 75000,
+    "hp": 312
+  },
+  {
+    "id": 36,
+    "make": "Volkswagen",
+    "model": "ID.4",
+    "trim": "GTX",
+    "year": 2025,
+    "price": 92000,
+    "hp": 335
+  },
+  {
+    "id": 37,
+    "make": "Volvo",
+    "model": "EX30",
+    "trim": "Twin Motor Performance",
+    "year": 2025,
+    "price": 75000,
+    "hp": 422
+  },
+  {
+    "id": 38,
+    "make": "Polestar",
+    "model": "4",
+    "trim": "Dual Motor Performance",
+    "year": 2025,
+    "price": 105000,
+    "hp": 536
+  },
+  {
+    "id": 39,
+    "make": "BYD",
+    "model": "Seal",
+    "trim": "Performance",
+    "year": 2025,
+    "price": 72000,
+    "hp": 523
+  },
+  {
+    "id": 40,
+    "make": "MG",
+    "model": "MG4",
+    "trim": "XPower",
+    "year": 2025,
+    "price": 64000,
+    "hp": 429
+  },
+  {
+    "id": 41,
+    "make": "Skoda",
+    "model": "Kodiaq",
+    "trim": "RS",
+    "year": 2025,
+    "price": 82000,
+    "hp": 241
+  },
+  {
+    "id": 42,
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "trim": "4xe Summit",
+    "year": 2025,
+    "price": 135000,
+    "hp": 375
+  },
+  {
+    "id": 43,
+    "make": "Dodge",
+    "model": "Challenger",
+    "trim": "SRT Demon 170",
+    "year": 2025,
+    "price": 350000,
+    "hp": 1025
+  },
+  {
+    "id": 44,
+    "make": "Ford",
+    "model": "Mustang",
+    "trim": "GT Convertible",
+    "year": 2025,
+    "price": 95000,
+    "hp": 480
+  },
+  {
+    "id": 45,
+    "make": "Audi",
+    "model": "e-tron GT",
+    "trim": "RS Performance",
+    "year": 2025,
+    "price": 275000,
+    "hp": 912
+  },
+  {
+    "id": 46,
+    "make": "BMW",
+    "model": "i7",
+    "trim": "M70 xDrive",
+    "year": 2025,
+    "price": 350000,
+    "hp": 650
+  },
+  {
+    "id": 47,
+    "make": "Mercedes-AMG",
+    "model": "EQS 53",
+    "trim": "4Matic+",
+    "year": 2025,
+    "price": 335000,
+    "hp": 649
+  },
+  {
+    "id": 48,
+    "make": "Gordon Murray",
+    "model": "T.33",
+    "trim": "V12 Coupe",
+    "year": 2025,
+    "price": 3000000,
+    "hp": 607
+  },
+  {
+    "id": 49,
+    "make": "Apollo",
+    "model": "IE",
+    "trim": "Carbon Edition",
+    "year": 2025,
+    "price": 4200000,
+    "hp": 780
+  },
+  {
+    "id": 50,
+    "make": "Pininfarina",
+    "model": "Battista",
+    "trim": "Edizione Nino Farina",
+    "year": 2025,
+    "price": 4000000,
+    "hp": 1900
+  },
+  {
+    "id": 51,
+    "make": "Porsche",
+    "model": "Macan",
+    "trim": "Turbo-Electric",
+    "year": 2025,
+    "price": 184400,
+    "hp": 630
+  },
+  {
+    "id": 52,
+    "make": "BYD",
+    "model": "sealion-6",
+    "trim": "Premium Extended Range AWD",
+    "year": 2025,
+    "price": 52990,
+    "hp": 339
   }
 ]
