@@ -1,51 +1,101 @@
 [
-
   {
-    "id": 4,
-    "make": "Toyota",
-    "model": "Hilux",
+    "id": 10,
+    "make": "BMW",
+    "model": "M3",
+    "trim": "Competition xDrive",
     "year": 2025,
-    "price": 45000,
-    "hp": 201
+    "price": 186500,
+    "hp": 523
   },
   {
-    "id": 5,
+    "id": 11,
+    "make": "Porsche",
+    "model": "Macan",
+    "trim": "Electric",
+    "year": 2025,
+    "price": 133700,
+    "hp": 402
+  },
+  {
+    "id": 12,
+    "make": "Mercedes-AMG",
+    "model": "C63 S",
+    "trim": "E Performance",
+    "year": 2025,
+    "price": 199900,
+    "hp": 671
+  },
+  {
+    "id": 13,
+    "make": "Hyundai",
+    "model": "IONIQ 5",
+    "trim": "N Performance",
+    "year": 2025,
+    "price": 111000,
+    "hp": 641
+  },
+  {
+    "id": 14,
     "make": "Audi",
-    "model": "A5",
+    "model": "RS3",
+    "trim": "Sportback",
     "year": 2025,
-    "price": 120000,
-    "hp": 261
+    "price": 108000,
+    "hp": 401
   },
   {
-    "id": 6,
-    "make": "Audi",
-    "model": "Q7",
-    "year": 2025,
-    "price": 150000,
-    "hp": 335
-  },
-  {
-    "id": 7,
+    "id": 15,
     "make": "Lexus",
-    "model": "RX350H",
+    "model": "GX550",
+    "trim": "Luxury",
     "year": 2025,
-    "price": 109000,
-    "hp": 275
+    "price": 116000,
+    "hp": 349
   },
   {
-    "id": 8,
-    "make": "Mazda",
-    "model": "CX5",
+    "id": 16,
+    "make": "Ford",
+    "model": "Mustang",
+    "trim": "Dark Horse",
     "year": 2025,
-    "price": 45000,
-    "hp": 256
+    "price": 103000,
+    "hp": 500
   },
   {
-    "id": 9,
-    "make": "Mercedes-Benz",
-    "model": "E-Class",
+    "id": 17,
+    "make": "Volkswagen",
+    "model": "Golf R",
+    "trim": "Hatch (Mk8.5)",
     "year": 2025,
-    "price": 200000,
-    "hp": 577
+    "price": 78000,
+    "hp": 328
+  },
+  {
+    "id": 18,
+    "make": "Chevrolet",
+    "model": "Corvette",
+    "trim": "Stingray 3LT",
+    "year": 2025,
+    "price": 205000,
+    "hp": 495
+  },
+  {
+    "id": 19,
+    "make": "Tesla",
+    "model": "Model 3",
+    "trim": "Performance",
+    "year": 2025,
+    "price": 85000,
+    "hp": 460
+  },
+  {
+    "id": 20,
+    "make": "Land Rover",
+    "model": "Defender 110",
+    "trim": "OCTA Edition",
+    "year": 2025,
+    "price": 300000,
+    "hp": 626
   }
 ]
